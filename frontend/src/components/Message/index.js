@@ -1,3 +1,3 @@
-import Message from './Message.jsx'
+import Header from './header.jsx'
 
-export default Message;
+export default Header;
